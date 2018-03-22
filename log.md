@@ -14,6 +14,11 @@
 **Link to work:** [Chef judges a competition](https://www.codechef.com/problems/CO92JUDG)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/chef%20judges%20a%20competition)
 
+### Day 4: March 22, 2018
+
+**Link to work:** [Total expenses](https://www.codechef.com/problems/FLOW009)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Total%20Expenses)
+
 
 
 
