@@ -19,6 +19,9 @@
 **Link to work:** [Total expenses](https://www.codechef.com/problems/FLOW009)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Total%20Expenses)
 
+### Day 5: March 23, 2018
 
+**Link to work:** [Packaging Cupcakes](https://www.codechef.com/problems/MUFFINS3)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Packaging%20Cupcakes)
 
 
