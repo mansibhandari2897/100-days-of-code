@@ -24,4 +24,9 @@
 **Link to work:** [Packaging Cupcakes](https://www.codechef.com/problems/MUFFINS3)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Packaging%20Cupcakes)
 
+### Day 6: March 24,2018
+
+**Link to work:** [Villages and tribes](https://www.codechef.com/problems/VILTRIBE)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/villages%20and%20tribes)
+
 
