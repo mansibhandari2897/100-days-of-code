@@ -49,5 +49,10 @@
 **Link to work:**[Magical Word](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/magical-word/)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/magical%20word)
 
+### Day 11: March 29,2018
+
+**Link to work:**[Uniform String](https://www.codechef.com/problems/STRLBP)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Uniform%20stringa)
+
 
 
