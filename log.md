@@ -34,8 +34,10 @@
 **Link to work:** [Tanu and Head-Bob](https://www.codechef.com/submit/HEADBOB)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Tanu%20and%20head-bob)
 
+### Day 7: March 25,2018
+
 **Link to work:** [Rectangle](https://www.codechef.com/problems/RECTANGL)
-[My Solution]()
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Rectangle)
 
 
 
