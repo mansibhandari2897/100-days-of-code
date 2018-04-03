@@ -29,4 +29,9 @@
 **Link to work:** [Villages and tribes](https://www.codechef.com/problems/VILTRIBE)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/villages%20and%20tribes)
 
+### Day 7: March 25,2018
+
+**Link to work:** [Tanu and Head-Bob](https://www.codechef.com/submit/HEADBOB)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Tanu%20and%20head-bob)
+
 
