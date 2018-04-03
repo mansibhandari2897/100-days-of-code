@@ -39,5 +39,10 @@
 **Link to work:** [Rectangle](https://www.codechef.com/problems/RECTANGL)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Rectangle)
 
+### Day 8: March 26,2018
+
+**Link to work:** [The smallest pair](https://www.codechef.com/problems/SMPAIR)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/the%20smallest%20pair)
+
 
 
