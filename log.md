@@ -44,5 +44,10 @@
 **Link to work:** [The smallest pair](https://www.codechef.com/problems/SMPAIR)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/the%20smallest%20pair)
 
+### Day 10: March 28,2018
+
+**Link to work:**[Magical Word](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/magical-word/)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/magical%20word)
+
 
 
