@@ -54,5 +54,10 @@
 **Link to work:**[Uniform String](https://www.codechef.com/problems/STRLBP)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Uniform%20stringa)
 
+### Day 12: March 30,2018
+
+**Link to work:**[Chef and Glove](https://www.codechef.com/problems/CHEGLOVE)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/chef%20and%20glove)
+
 
 
