@@ -67,7 +67,11 @@
 ### Day 14: April 1,2018
 
 **Link to work:**[Chef and his characters](https://www.codechef.com/problems/CHEFCHR)
-[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Chef%20n%20his%20characters)
+
+### Day 15: April 2,2018
+
+**Link to work:**[Greedy Yatharth](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/greedy-yathartha/)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/Greedy%20Yatharth)
 
 
 
