@@ -59,5 +59,15 @@
 **Link to work:**[Chef and Glove](https://www.codechef.com/problems/CHEGLOVE)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/chef%20and%20glove)
 
+### Day 13: March 31,2018
+
+**Link to work:**[Chef and cook_off](https://www.codechef.com/problems/CCOOK)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Chef%20and%20cook-off)
+
+### Day 14: April 1,2018
+
+**Link to work:**[Chef and his characters](https://www.codechef.com/problems/CHEFCHR)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Chef%20n%20his%20characters)
+
 
 
