@@ -73,7 +73,7 @@
 **Link to work:**[Greedy Yatharth](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/greedy-yathartha/)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/Greedy%20Yatharth)
 
-### Day 16: April 2,2018
+### Day 16: April 3,2018
 
 **Link to work:**[Cipher](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cipher-1/)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/Cipher)
