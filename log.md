@@ -83,5 +83,25 @@
 **Link to work:**[Chef and two strings](https://www.codechef.com/problems/CHEFSTLT)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/chef%20and%20two%20strings)
 
+### Day 18: April 5,2018
+
+**Link to work:**[Puppy and sum](https://www.codechef.com/problems/PPSUM)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Puppy%20and%20sum)
+
+### Day 19: April 6,2018
+
+**Link to work:**[Greedy puppy](https://www.codechef.com/problems/GDOG)
+[My solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Greedy%20Puppy)
+
+### Day 20: April 7,2018
+
+**Link to work:**[Saving the universe again](https://github.com/mansibhandari2897/initial/blob/master/Google%20Code%20Jam.pdf)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/CODE%20JAM/Saving%20the%20universe)
+
+### Day 21: April 8,2018
+
+**Link to work:**(https://github.com/mansibhandari2897/initial/blob/master/Google%20Code%20Jam2.pdf)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/CODE%20JAM/TROUBLE%20SORT)
+
 
 
