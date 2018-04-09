@@ -78,5 +78,10 @@
 **Link to work:**[Cipher](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cipher-1/)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/Cipher)
 
+### Day 17: April 4,2018
+
+**Link to work:**[Chef and two strings](https://www.codechef.com/problems/CHEFSTLT)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/chef%20and%20two%20strings)
+
 
 
