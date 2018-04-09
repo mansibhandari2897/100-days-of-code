@@ -95,12 +95,12 @@
 
 ### Day 20: April 7,2018
 
-**Link to work:**[Saving the universe again](https://github.com/mansibhandari2897/initial/blob/master/Google%20Code%20Jam.pdf)
+**Link to work:**[codejam_Saving the universe again](https://github.com/mansibhandari2897/initial/blob/master/Google%20Code%20Jam.pdf)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/CODE%20JAM/Saving%20the%20universe)
 
 ### Day 21: April 8,2018
 
-**Link to work:**(https://github.com/mansibhandari2897/initial/blob/master/Google%20Code%20Jam2.pdf)
+**Link to work:**[codejam_trouble sort](https://github.com/mansibhandari2897/initial/blob/master/Google%20Code%20Jam2.pdf)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/CODE%20JAM/TROUBLE%20SORT)
 
 
