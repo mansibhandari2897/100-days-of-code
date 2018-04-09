@@ -103,5 +103,12 @@
 **Link to work:**[codejam_trouble sort](https://github.com/mansibhandari2897/initial/blob/master/Google%20Code%20Jam2.pdf)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/CODE%20JAM/TROUBLE%20SORT)
 
+### Day 22: April 9,2018
+
+**Link to work:**[Days in month](https://www.codechef.com/problems/NW1)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Days%20in%20month)
+[The Block game](https://www.codechef.com/problems/PALL01)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/The%20Block%20Game)
+
 
 
