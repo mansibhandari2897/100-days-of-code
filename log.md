@@ -111,4 +111,14 @@
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/The%20Block%20Game)
 
 
+### Day 23: April 10,2018
+
+**Link to work:**[Chef and wildcard matching](https://www.codechef.com/problems/TWOSTR)
+[My Solution](https://www.codechef.com/problems/TWOSTR)
+
+
+### Day 24: April 11,2018
+
+**Link to work:**[Chef and digits of number](https://www.codechef.com/problems/LONGSEQ)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Chef%20and%20digits%20of%20number)
 
