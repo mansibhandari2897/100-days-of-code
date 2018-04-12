@@ -123,3 +123,9 @@
 **Link to work:**[Chef and digits of number](https://www.codechef.com/problems/LONGSEQ)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Chef%20and%20digits%20of%20number)
 
+### Day 25: April 12,2018
+
+**Link to work:**[Coder life matters](https://www.codechef.com/problems/CODERLIF)
+
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Coder%20life%20matters)
+
