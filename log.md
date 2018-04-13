@@ -129,3 +129,11 @@
 
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Coder%20life%20matters)
 
+### Day 26: April 13,2018
+
+**Link to work:**[Chef and game with sequence](https://www.codechef.com/problems/L56GAME)
+
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/chef%20and%20game%20with%20sequence)
+
+[Chef and remissnes](https://www.codechef.com/problems/REMISS)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Chef%20and%20remissness)
