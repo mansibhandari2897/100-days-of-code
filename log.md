@@ -137,3 +137,39 @@
 
 [Chef and remissnes](https://www.codechef.com/problems/REMISS)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Chef%20and%20remissness)
+
+
+### Day 27: April 14,2018
+
+**Link too work:**[Candy love](https://www.codechef.com/problems/CNDLOVE)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/candy%20love)
+
+### Day 28: April 15,2018
+
+**Link to work:**[Good n bad person](https://www.codechef.com/problems/GOODBAD)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/good%20and%20bad%20person)
+
+### Day 29: April 16,2018
+
+**today's progress**[today i participated in gambit an evnt of college fest]
+**Link to work:**[THE PATTERN](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-pattern-c9e759e9/)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/the%20pattern)
+
+[Strange Game](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/strange-game-1-7e758acb-1bff10f0/)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/Strange%20Game)
+
+[Maximize the earning](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-the-earning-137963bc-323025a6/)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/Maximize%20the%20earning)
+
+### Day 30: April 17,2018
+
+**link to work:**[from earth to heaven](https://www.codechef.com/problems/ELEVSTRS)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/from%20earth%20to%20heaven)
+
+[Chef and substring](https://www.codechef.com/problems/CHEFARRP)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Chef%20and%20substring)
+
+### Day 31: April 18,2018
+
+**Link to work:**[Bear and Candies](https://www.codechef.com/problems/CANDY123)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Bear%20and%20candies)
