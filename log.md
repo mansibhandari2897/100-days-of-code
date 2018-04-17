@@ -95,6 +95,7 @@
 
 ### Day 20: April 7,2018
 
+**today's progress:**[i participated in codejam 27 hrs competition]
 **Link to work:**[codejam_Saving the universe again](https://github.com/mansibhandari2897/initial/blob/master/Google%20Code%20Jam.pdf)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/CODE%20JAM/Saving%20the%20universe)
 
@@ -151,7 +152,8 @@
 
 ### Day 29: April 16,2018
 
-**today's progress**[today i participated in gambit an evnt of college fest]
+**today's progress**:[today i participated in gambit an evnt of college fest]
+
 **Link to work:**[THE PATTERN](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-pattern-c9e759e9/)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/the%20pattern)
 
