@@ -186,3 +186,8 @@
 
 **Link to work:**[Studying alphabet](https://www.codechef.com/problems/ALPHABET)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Studying%20alphabet)
+
+### Day 34: April 21,2018
+
+**Link to work:**[Chef and Fruits](https://www.codechef.com/problems/FRUITS)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Chef%20and%20Fruits)
