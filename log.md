@@ -175,3 +175,14 @@
 
 **Link to work:**[Bear and Candies](https://www.codechef.com/problems/CANDY123)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Bear%20and%20candies)
+
+
+### Day 32: April 19,2018
+
+**Link to work:**[Similar Dishes](https://www.codechef.com/problems/SIMDISH)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Similar%20Dishes)
+
+### Day 33: April 20,2018
+
+**Link to work:**[Studying alphabet](https://www.codechef.com/problems/ALPHABET)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Studying%20alphabet)
