@@ -191,3 +191,13 @@
 
 **Link to work:**[Chef and Fruits](https://www.codechef.com/problems/FRUITS)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Chef%20and%20Fruits)
+
+### Day 35: April 22,2018
+
+**Link to work:**[GAMBIT_The Wave](https://www.hackerearth.com/challenge/college/gambit-18/algorithm/85b70cb0433e4e78a79da8624547cb8e/)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/The%20Wave)
+
+### Day 36: April 23:2018
+
+**Link to work:**[GRade the steel](https://www.codechef.com/problems/FLOW014)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/Grade%20the%20steel)
