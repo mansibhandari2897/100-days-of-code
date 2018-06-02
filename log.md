@@ -211,3 +211,8 @@
 
 **Link to work:**[J Reached Safely or not](https://www.codechef.com/problems/ZUBREACH)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/J%20REACHED%20SAFELY%20OR%20NOT)
+
+### Day 39: April 25,2018
+
+**Link to work:**[Sitting Arrangement]()
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/Sitting%20Arrangement)
