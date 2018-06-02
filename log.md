@@ -206,3 +206,8 @@
 
 **Link to work:**[workers](https://www.codechef.com/problems/CHEFWORK)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/workers)
+
+### Day 38: April 24,2018
+
+**Link to work:**[J Reached Safely or not](https://www.codechef.com/problems/ZUBREACH)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/J%20REACHED%20SAFELY%20OR%20NOT)
