@@ -216,3 +216,43 @@
 
 **Link to work:**[Sitting Arrangement]()
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/Sitting%20Arrangement)
+
+### Day 40: April 26,2018
+
+**Link To Work:**[archie and comparison](https://www.codechef.com/problems/NUMCOMP)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/archie%20and%20comparison)
+
+### Day 41: April 27,2018
+
+**Link To Work:**[cut the board](https://www.codechef.com/problems/CUTBOARD)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/cut%20the%20board)
+
+### Day 42: April 28,2018
+
+**Link To Work:**[xor again](https://www.codechef.com/problems/XORAGN)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/xor%20again)
+
+### Day 43: April 29,2018
+
+**Link To Work:**[split stones](https://www.codechef.com/problems/SPLST)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/split%20stones)
+
+### Day 44: April 30,2018
+
+**Link To Work:**[chef and bored games](https://www.codechef.com/problems/PCJ18B)
+[MY SOLUTION](https://github.com/mansibhandari2897/initial/blob/master/codechef/CHEF%20AND%20BORED%20GAMES)
+
+### Day 45: May 1,2018
+
+**Link To Work:**[the great run](https://www.codechef.com/problems/PROC18A)
+[MY SOLUTION](https://github.com/mansibhandari2897/initial/blob/master/codechef/THE%20GREAT%20RUN)
+
+### Day 46: May 2,2018
+
+**Link To Work:**[chef and secret ingredient](https://www.codechef.com/problems/PCJ18A)
+[MY SOLUTION](https://github.com/mansibhandari2897/initial/blob/master/codechef/chef%20and%20secret%20ingredient)
+
+### Day 47: May 3,2018
+
+**Link To Work:**[judging delay](https://www.codechef.com/problems/JDELAY)
+[My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/judging%20delay)
