@@ -256,3 +256,18 @@
 
 **Link To Work:**[judging delay](https://www.codechef.com/problems/JDELAY)
 [My Solution](https://github.com/mansibhandari2897/initial/blob/master/codechef/judging%20delay)
+
+### Day 48: May 4,2018
+
+**Link To Work:**[xsquare and two array](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-two-arrays/)
+[MY SOLUTON](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/XSQUARE%20AND%20TWO%20ARRAY)
+
+### Day 49: May 5,2018
+
+**Link To Work:**[INtelligent Girl](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/intelligent-girl-1/)
+[MY SOLUTION](https://github.com/mansibhandari2897/initial/blob/master/HACKEREARTH/intelligent%20girl)
+
+### Day 50: May 6,2018
+
+**Link To Work:**()
+[my solution]()
